@@ -1,6 +1,6 @@
 [Project]
-FileName=Exerc3_Bhaskara.dev
-Name=Exerc3_Bhaskara
+FileName=Exerc6_Triangulos.dev
+Name=Exerc6_Triangulos
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=Exerc3_Bhaskara.c
+FileName=Exerc6_Triangulos.c
 CompileCpp=0
 Folder=
 Compile=1

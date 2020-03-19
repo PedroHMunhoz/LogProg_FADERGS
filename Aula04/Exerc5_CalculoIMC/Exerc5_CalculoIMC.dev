@@ -1,6 +1,6 @@
 [Project]
-FileName=Exerc3_Bhaskara.dev
-Name=Exerc3_Bhaskara
+FileName=Exerc5_CalculoIMC.dev
+Name=Exerc5_CalculoIMC
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=Exerc3_Bhaskara.c
+FileName=Exerc5_CalculoIMC.c
 CompileCpp=0
 Folder=
 Compile=1
